@@ -1,0 +1,21 @@
+.container{
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  margin: auto;
+}
+
+.slider{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.frame{
+    height: 300px;
+    width: 500px;
+    overflow: hidden;
+
+
+}
